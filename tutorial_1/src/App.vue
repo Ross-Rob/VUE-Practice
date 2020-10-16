@@ -32,7 +32,7 @@
         target="_blank"
         text
       >
-        <span class="mr-2">This is my Text</span>
+        <span class="mr-2">This is my Branch Test</span>
         <v-icon>mdi-open-in-new</v-icon>
       </v-btn>
     </v-app-bar>
